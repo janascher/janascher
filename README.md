@@ -4,7 +4,8 @@
 
 - 🎓 Sou formada em Administração de Empresas
 - 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
-- 🌱 Estou explorando e aprendendo desenvolvimento Web Front-End
+- 🌱 Estou explorando e aprendendo a área de Front-End
+- 📚 Sou estudante no tecnólogo em Desenvolvimento Web
 - 🔭 Atualmente procurando trabalhar na área
 
 <div>
