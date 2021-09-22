@@ -2,11 +2,11 @@
 
 ##
 
-- 🎓 Sou formada em Administração de Empresas
+- 📚 Sou estudante no tecnólogo em Desenvolvimento Web
 - 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
 - 🌱 Estou explorando e aprendendo a área de Front-End
-- 📚 Sou estudante no tecnólogo em Desenvolvimento Web
-- 🔭 Atualmente procurando trabalhar na área
+- 🎓 Sou formada em Administração de Empresas
+- 🔭 Atualmente procurando trabalhar na área de Front-End
 
 <div>
   <a href="https://github.com/janascher">
