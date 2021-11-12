@@ -4,8 +4,8 @@
 
 - 📚 Sou estudante no tecnólogo em Desenvolvimento Web
 - 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
-- 🌱 Estou explorando e aprendendo a área de Front-End
-- 🎓 Sou formada em Administração de Empresas
+- 🌱 Estou explorando e aprendendo Desenvolvimento Front-End
+- 🎓 Graduada em Administração de Empresas
 - 🔭 Atualmente procurando trabalhar na área de Front-End
 
 <div>
@@ -30,6 +30,6 @@
 #### Onde me encontrar:
   
 <div> 
-  <a href = "mailto:jscher@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:janainascher@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janainascher/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
