@@ -2,11 +2,12 @@
 
 ##
 
-- 📚 Sou estudante no tecnólogo em Desenvolvimento Web
-- 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
-- 🌱 Estou explorando e aprendendo Desenvolvimento Front-End
+- 🚀 Aspirante a Desenvolvedor Web na Alpha EdTech
+- 📚 Estudante no tecnólogo em Desenvolvimento Web
 - 🎓 Graduada em Administração de Empresas
-- 🔭 Atualmente procurando trabalhar na área de Front-End
+- 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
+- 🌱 Explorando e aprendendo programação
+- 🔭 Atualmente procurando trabalhar na área de desenvolvimento
 
 <div>
   <a href="https://github.com/janascher">
