@@ -3,7 +3,6 @@
 ##
 
 - 🚀 Aspirante a Desenvolvedor Web na Alpha EdTech
-- 📚 Estudante no tecnólogo em Desenvolvimento Web
 - 🎓 Graduada em Administração de Empresas
 - 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
 - 🌱 Explorando e aprendendo programação
