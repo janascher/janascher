@@ -2,11 +2,17 @@
 
 ##
 
-- 🚀 Aspirante a Desenvolvedor Web na Alpha EdTech
+Algumas curiosidades sobre mim:
+
 - 🎓 Graduada em Administração de Empresas
-- 👩‍💻 Em 2021 decidi migrar para a área da tecnologia
-- 🌱 Explorando e aprendendo programação
-- 🔭 Atualmente procurando trabalhar na área de desenvolvimento
+- 💁🏻‍♀️ Possuo experiência na área de humanas
+- 👩‍💻 Iniciei a transição de carreira em 2021
+- 🚀 Estudante a desenvolvedor fullstack na Alpha EdTech
+- 🌱 Mas querendo aprender também sobre UI/UX ou Testes
+- 🧉 Apreciadora de um bom chimarrão
+- ⚡ Meus hobbies são: exercícios físicos, nerdices e curtir a família
+- 👯 Mãe e mulher com fibromialgia
+- 🔭 Me coloco a diposição para a minha primeira experiência na área da tecnologia
 
 <div>
   <a href="https://github.com/janascher">
