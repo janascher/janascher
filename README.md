@@ -4,14 +4,15 @@
 
 Algumas curiosidades sobre mim:
 
-- 🎓 Graduada em Administração de Empresas
-- 💁🏻‍♀️ Possuo experiência na área de humanas
-- 👩‍💻 Iniciei a transição de carreira em 2021
-- 🚀 Estudante a desenvolvedor fullstack na Alpha EdTech
+- 👩‍💻 Iniciei a transição de carreira para tech em 2021
+- 🚀 Sou estudante a desenvolvedor fullstack na Alpha EdTech
 - 🌱 Mas querendo aprender também sobre UI/UX ou Testes
+- 🎓 Graduada em Administração de Empresas
+- 💁🏻‍♀️ Possuo experiência na área de recursos humanos
+- 📱  Tenho breve conhecimento em Marketing Digital
 - 🧉 Apreciadora de um bom chimarrão
-- ⚡ Meus hobbies são: exercícios físicos, nerdices e curtir a família
 - 👯 Mãe e mulher com fibromialgia
+- ⚡ Atividade física, nerdices e curtir a família são alguns dos meus hobbies
 - 🔭 Me coloco a diposição para a minha primeira experiência na área da tecnologia
 
 <div>
