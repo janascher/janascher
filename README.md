@@ -1,4 +1,4 @@
-### Olá! Eu sou a Janaína Scher  👋
+## Olá! Eu sou a Janaína Scher  👋
 
 Algumas curiosidades sobre mim:
 
