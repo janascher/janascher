@@ -2,9 +2,8 @@
 
 Algumas curiosidades sobre mim:
 
-- 👩‍💻 Iniciei a minha transição de carreira para tech em 2021
-- 🚀 Sou estudante a Desenvolvedor Full Stack na Alpha EdTech
-- 🌱 Pretendo aprender também sobre QA/Testes ou UI/UX
+- 🌱 Iniciei a minha transição de carreira para tech em 2021
+- 🚀 Sou estudante a Desenvolvedor na Alpha EdTech
 - 🎓 Graduada em Administração de Empresas
 - 💁🏻‍♀️ Possuo experiência profissional na área de Recursos Humanos
 - 📱  Tenho breve conhecimento em Marketing Digital
