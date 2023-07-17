@@ -5,8 +5,8 @@
 - 🧉  Gaúcha apreciadora de um bom chimarrão em transição de carreira para TI
 - 😄 Atividade física, nerdices e curtir a família são alguns dos meus hobbies
 - 🎓 Sou Graduada em Administração de Empresas pela Estácio FARGS e cursei até o 2º semestre do Tecnólogo em Desenvolvimento Web na Anhanguera, com planos futuros de concluir o curso
-- 👩‍💻 Além disso, durante a faculdade em administração, adquiri experiência profissinal nas áreas de RH e Administrativo
-- 🧠 Atualmente sou estudante em Desenvolvimento Web no Alpha EdTech, um projeto da Alpha Lumen
+- 👩‍💻 Além disso, durante a faculdade em administração, adquiri experiência profissinal nas áreas de RH e Marketing Digital
+- 🧠 Atualmente sou estudante no Alpha EdTech, um projeto da Alpha Lumen
 - 🔭 Busco ascender e evoluir na área de Gestão de Projetos ou de Análise de Dados
 - 📖 Aqui você encontrará os meus materais de estudos e desafios que fiz
 
