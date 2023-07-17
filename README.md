@@ -7,7 +7,7 @@
 - 🎓 Sou Graduada em Administração de Empresas pela Estácio FARGS e cursei até o 2º semestre do Tecnólogo em Desenvolvimento Web na Anhanguera, com planos futuros de concluir o curso
 - 👩‍💻 Além disso, durante a faculdade em administração, adquiri experiência profissinal nas áreas de RH e Administrativo
 - 🧠 Atualmente sou estudante em Desenvolvimento Web no Alpha EdTech, um projeto da Alpha Lumen
-- 🔭 Busco ascender e evoluir na área de Projetos ou Dados
+- 🔭 Busco ascender e evoluir na área de Gestão de Projetos ou de Análise de Dados
 - 📖 Aqui você encontrará os meus materais de estudos e desafios que fiz
 
 ##
