@@ -2,13 +2,13 @@
 
 ### 💁🏻‍♀️ Sobre mim:
 
-- 🧉  Gaúcha apreciadora de um bom chimarrão em transição de carreira para TI
-- 😄 Atividade física, nerdices e curtir a família são alguns dos meus hobbies
+- 🧉  Gaúcha apreciadora de um bom chimarrão
+- 😄 Adoro atividade física, nerdices e curtir a minha família
+- 🕵️‍♀️ Atuo como Quality Assurance (QA)
 - 🎓 Sou Graduada em Administração de Empresas pela Estácio FARGS e cursei até o 2º semestre do Tecnólogo em Desenvolvimento Web na Anhanguera, com planos futuros de concluir o curso
 - 👩‍💻 Além disso, durante a faculdade em administração, adquiri experiência profissinal nas áreas de RH e Marketing Digital
-- 🧠 Atualmente sou estudante no Alpha EdTech, um projeto da Alpha Lumen
-- 🔭 Busco ascender e evoluir na área de TI
-- 📖 Aqui você encontrará os meus materais de estudos e desafios que fiz
+- 🚀 Busco ascender e evoluir na área de TI
+- 📖 Aqui você encontrará os meus materais de estudos e desafios que participei
 
 ##
 ### 🔗 Me encontre
@@ -22,7 +22,6 @@
 ### 📚 Estudando:
 
 <div>
-  <img src="https://img.shields.io/badge/Gerenciamento_de_Projetos-FF8B29?style=for-the-badge&logo=alura&logoColor=black" height="25" />
   <img src="https://img.shields.io/badge/Quality_Assurance-00AAC8?style=for-the-badge&logo=alura&logoColor=black" height="25" />
 </div>
 
