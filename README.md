@@ -15,7 +15,6 @@ Se você tem interesse em trocar ideias, práticas ou colaborações que enrique
 
 Vamos impulsionar a tecnologia juntos! 
 
-[![Email ProtonMail](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:janainascher@protonmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janainascher/)
 
 ##
