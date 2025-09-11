@@ -1,4 +1,4 @@
-##👋 Olá! Bem-vindo ao meu espaço!
+## Olá!👋 Bem-vindo ao meu espaço!
 
 👨‍💻 Aqui compartilho minhas experiências e aprendizados.
 
