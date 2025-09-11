@@ -1,37 +1,34 @@
-## Bem-vindo ao Meu Mundo de QA  
+##👋 Olá! Bem-vindo ao meu espaço!
 
-🌟 "Perfeição é detalhe, e detalhe é qualidade. No universo do QA, cada pixel importa."
+👨‍💻 Aqui compartilho minhas experiências e aprendizados.
 
-Eu sou Janaína Scher, uma entusiasta da tecnologia com raízes gaúchas e um coração que bate pelo aperfeiçoamento contínuo em Quality Assurance (QA). Com Graduação em Administração de Empresas e estudos em Desenvolvimento Web, eu contribuo para elevar a qualidade do software a novos patamares.
+Sou **Janaína Scher**, formada em Administração de Empresas, com **10+ anos de experiência administrativa**, incluindo **5+ anos em Recursos Humanos**, e **1+ ano em Teste de Software/QA**. 
 
-👨‍💻 Este perfil é um vislumbre dos meus estudos, desafios superados e o compromisso com a excelência profissional.
+Minha experiência combina estruturação de processos administrativos e de RH, gestão de benefícios, integração com DP terceirizado, análise de dados e execução de testes, além de promover a integração de equipes.
 
-🏃‍♀️ Quando não estou imersa no mundo do QA, você pode me encontrar saboreando um chimarrão, mantendo-me ativa ou valorizando momentos preciosos com minha família.
+Valorizo organização, disciplina, comunicação eficaz, empatia e atenção aos detalhes, aplicando essas qualidades em todas as minhas atividades.
 
-##
-### 🔗 Vamos Conectar!
-
-Se você tem interesse em trocar ideias, práticas ou colaborações que enriqueçam nossa área, estou disponível para conectar. 
-
-Vamos impulsionar a tecnologia juntos! 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janainascher/)
+Estou aberta a oportunidades que me permitam aplicar minhas competências, gerar impacto positivo e contribuir para o crescimento — seja em QA, Recursos Humanos ou áreas administrativas.
 
 ##
-### 🛠️ Ferramentas e Tecnologias:
+### 📫 Você também me encontra aqui:
+<div>
+  <a href="https://www.linkedin.com/in/janainascher" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-| Categoria | Badges |
-|-----------|--------|
-| Linguagens | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
-| Banco de Dados | ![SQL](https://img.shields.io/badge/SQL-F80000?style=flat&logo=sql&logoColor=white) ![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=flat&logo=postgresql&logoColor=white) |
-| IDEs | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
-| Sistema Operacional | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| CI/CD | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| Gerenciamento de Projeto | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) |
-| Metodologia Ágil | ![Scrum](https://img.shields.io/badge/Scrum-2088FF?style=flat&logo=scrumalliance&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-2088FF?style=flat&logo=trello&logoColor=white) ![BDD](https://img.shields.io/badge/BDD-23D96C?style=flat&logo=cucumber&logoColor=white) |
-| Frameworks de Teste | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=flat&logo=cucumber&logoColor=white) |
-| Tipos de Teste | ![Teste Exploratório](https://img.shields.io/badge/Teste_Exploratório-4285F4?style=flat) ![Teste Manual](https://img.shields.io/badge/Teste_Manual-34A853?style=flat) ![Teste de Regressão](https://img.shields.io/badge/Teste_de_Regressão-FBBC05?style=flat) ![Teste de Confirmação](https://img.shields.io/badge/Teste_de_Confirmação-EA4335?style=flat) ![Teste Funcional](https://img.shields.io/badge/Teste_Funcional-4285F4?style=flat) ![Teste de Usabilidade](https://img.shields.io/badge/Teste_de_Usabilidade-34A853?style=flat) |
+##
+### 🚀 Competências:
 
+- **JavaScript / Python:** Experiência em scripts, automação e desenvolvimento web.
+- **SQL / PgAdmin:** Consultas, verificação de dados e suporte a testes. 
+- **Cypress / Gherkin:** Automação E2E e testes BDD.
+- **Jira / Trello:** Gestão de projetos, processos e documentação de cenários.
+- **Scrum / Kanban:** Aplicação prática em projetos ágeis.
+- **VSCode / Ubuntu / Windows:** Ambiente de desenvolvimento e gestão de sistemas operacionais.
+- **Testes Manuais / Funcionais / Aceitação / Confirmação / Exploratório / API:** Planejamento, execução e documentação de testes.
+- **Soft Skills:** Comunicação, organização, disciplina, resiliência, atenção aos detalhes, aprendizado contínuo e trabalho em equipe.
   
 ##
 ### 📊 Estatísticas do GitHub
@@ -40,3 +37,5 @@ Vamos impulsionar a tecnologia juntos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janascher&theme=dracula&rank_icon=github&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janascher&layout=compact&langs_count=5&theme=dracula"/>
 </p>
+
+
