@@ -1,14 +1,44 @@
-## Olá!👋 Bem-vindo ao meu espaço!
+## Olá! Bem-vindo(a) ao meu perfil 🙋🏻‍♀️
 
-👨‍💻 Aqui compartilho minhas experiências e aprendizados.
+### 🐞 QA: Detalhe é Qualidade. Qualidade é Estabilidade.
 
-Sou **Janaína Scher**, formada em Administração de Empresas, com **10+ anos de experiência administrativa**, incluindo **5+ anos em Recursos Humanos**, e **1+ ano em Teste de Software/QA**. 
+Sou a **Janaína Scher**, apaixonada pela área da qualidade, com a missão de entregar **produtos estáveis e confiáveis**. Estou constantemente em busca de aprimoramento e desenvolvendo minhas habilidades para aplicar as melhores práticas do mercado.
 
-Minha experiência combina estruturação de processos administrativos e de RH, gestão de benefícios, integração com DP terceirizado, análise de dados e execução de testes, além de promover a integração de equipes.
+**Busco uma posição em Teste e Qualidade de Software (QA) onde eu possa aplicar meus conhecimentos, contribuindo para a estabilidade do produto e o crescimento na minha carreira.**
 
-Valorizo organização, disciplina, comunicação eficaz, empatia e atenção aos detalhes, aplicando essas qualidades em todas as minhas atividades.
+##
+### 📝 Minha Experiência Como QA
 
-Estou aberta a oportunidades que me permitam aplicar minhas competências, gerar impacto positivo e contribuir para o crescimento — seja em QA, Recursos Humanos ou áreas administrativas.
+Minha vivência cobre todo o ciclo de vida do teste:
+
+* **Análise e Planejamento:** análise de requisitos, regras de negócio e planejamento de testes.
+* **Cenários e Testes:** criação de casos de testes, execução de testes manuais e funcionais (Web, API), incluindo testes exploratórios, de usabilidade, de aceitação, de regressão, de confirmação, e de smoke test (teste de fumaça).
+* **Rastreabilidade e Validação:** reportes, documentação  de resultados e defeitos, consultas em banco de dados relacionais, análise de logs e validação das entregas com os protótipos (UI/UX).
+
+## 
+### 🧠 Minhas Ferramentas de Qualidade (QA Stack)
+
+Com 7+ anos de experiência em Administração de Empresas, trago uma visão estratégica de gestão de riscos e compliance, garantindo que a qualidade técnica esteja sempre alinhada às regras de negócio e às expectativas do cliente, o que me permite entender as necessidades do cliente e garantir que as soluções desenvolvidas atendam às suas expectativas.
+
+##
+## 🚀 QA Stack
+
+| Categoria | Habilidades e Ferramentas |
+| :--- | :--- |
+| **Linguagens Base** | HTML, CSS, JavaScript, Python e SQL |
+| **Metodologias de Teste** | Planejamento, Análise de Requisitos, BDD (Behavior-Driven Development), Gherkin |
+| **Gestão & Rastreabilidade** | Jira, Trello, Figma e pgAdmin |
+| **Processos Ágeis** | Scrum, Kanban, Colaboração ativa com desenvolvedores, product owners e product designers |
+| **Meu Caminho para a Automação** | Cypress, Playwright, Postman, Appium (com Sauce Labs e Emuladores), web, modile e API |
+
+##
+## 🤖 Meu Caminho para a Automação
+
+Estou aprimorando minhas habilidades em automação com foco em:
+
+* **Web (Front-end):** **Cypress** e **Playwright**.
+* **API (Back-end):** **Postman** e **Cypress**.
+* **Mobile:** **Appium** com Sauce Labs e emuladores.
 
 ##
 ### 📫 Você também me encontra aqui:
@@ -18,18 +48,6 @@ Estou aberta a oportunidades que me permitam aplicar minhas competências, gerar
   </a>
 </div>
 
-##
-### 🚀 Competências:
-
-- **JavaScript / Python:** Experiência em scripts, automação e desenvolvimento web.
-- **SQL / PgAdmin:** Consultas, verificação de dados e suporte a testes. 
-- **Cypress / Gherkin:** Automação E2E e testes BDD.
-- **Jira / Trello:** Gestão de projetos, processos e documentação de cenários.
-- **Scrum / Kanban:** Aplicação prática em projetos ágeis.
-- **VSCode / Ubuntu / Windows:** Ambiente de desenvolvimento e gestão de sistemas operacionais.
-- **Testes Manuais / Funcionais / Aceitação / Confirmação / Exploratório / API:** Planejamento, execução e documentação de testes.
-- **Soft Skills:** Comunicação, organização, disciplina, resiliência, atenção aos detalhes, aprendizado contínuo e trabalho em equipe.
-  
 ##
 ### 📊 Estatísticas do GitHub
 
